@@ -1,7 +1,5 @@
 # Ignore code
 /node_modules/
-/dist/
-/build/
 /coverage/
 /lib/cov-html/
 .env
